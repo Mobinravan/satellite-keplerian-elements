@@ -32,7 +32,3 @@ Given position (r) and velocity (v) vectors in an inertial coordinate system, th
 > - v = (-4.0917, 5.5089, 4.9534) km/s
 > 
 > Earth's gravitational constant (GM) = 398600.4418 km³/s² (WGS84)
-
-## How to Run
-```bash
-python code/keplerian_elements.py
