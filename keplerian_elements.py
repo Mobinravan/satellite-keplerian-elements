@@ -1,11 +1,10 @@
-# Mobin Ravan
+# PHOBOS
 
 import numpy as np
 import matplotlib.pyplot as plt
 
 # Earth's gravitational constant (WGS84)
 GM = 398600.4418  # km^3/s^2
-
 
 #----------- Part 1 Proj: Kepler elements 
 
@@ -269,7 +268,7 @@ print("\n")
 print("According to Kepler's 3rd law: T = 2π √(a³/GM)")
 print("Orbital period of INTELSAT-20 =", round(T_seconds, 2), "seconds =", round(T_hours, 4), "hours")
 
-# check if T_hours is approximately 24 or not
+# check if T_hours is approximately 24 or not 
 if T_hours >= 23.9 and T_hours <= 24.1:
     print("\n")
     print("Since the orbital period is about 24 hours (≈", round(T_hours, 2), "h),")
