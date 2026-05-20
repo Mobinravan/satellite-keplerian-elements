@@ -1,0 +1,44 @@
+----------------------
+Satellite INTELSAT-20
+==============================
+a (km)          : 42166.41937
+e              : 0.000201
+i (deg)         : 0.016584
+Omega (deg)      : 139.101395
+Omega(AP) (deg)    : 40.552954
+M (deg)          : 113.470063
+nu (deg)      : 113.491173
+
+.............................
+Satellite MONILIYA3-50
+==============================
+a (km)       : 26552.565523
+e              : 0.732588
+i (deg)         : 62.246976
+Omega (deg)      : 104.280011
+Omega(AP) (deg)    : 274.734575
+M (deg)        : 7.901019
+nu (deg)        : 62.614186
+
+-------------------------------------
+Hill's elements for INTELSAT-20 (GEO)
+-------------------------------------
+r (km)          : 42169.793844
+r_dot (km/s)   : 5.663568e-04
+u (rad)        : 2.688577   ( 154.044126 deg)
+Omega (rad)     : 2.427777   ( 139.101395 deg)
+G (km²/s)      : 129643.945913
+H (km²/s)       : 129643.940483
+
+-----------------------------------
+Proof: INTELSAT-20 is in Geostationary Orbit (GEO)
+
+-----------------------------------
+
+
+According to Kepler's 3rd law: T = 2π √(a³/GM)
+Orbital period of INTELSAT-20 = 86170.99 seconds = 23.9364 hours
+
+
+Since the orbital period is about 24 hours (≈ 23.94 h),
+   INTELSAT-20 is in a Geostationary Orbit (GEO).
